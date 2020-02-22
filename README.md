@@ -45,3 +45,5 @@ Also, if you like StreetComplete, **spread the word**! ❤️
 ## License
 
 This software is released under the terms of the [GNU General Public License](http://www.gnu.org/licenses/gpl-3.0.html).
+
+The `semiradialmenu` folder is a derivative of https://github.com/kngfrhzs/radial-menu/ and is used under the MIT license. To comply with the terms of the GPL, it is distributed here under the GPL.
